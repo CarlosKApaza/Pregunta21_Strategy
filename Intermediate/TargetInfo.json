@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Pregunta21",
+			"Path": "C:\\SIS457\\Pregunta21\\Source\\Pregunta21.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Pregunta21Editor",
+			"Path": "C:\\SIS457\\Pregunta21\\Source\\Pregunta21Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

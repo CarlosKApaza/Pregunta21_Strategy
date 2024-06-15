@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Pregunta21.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4A11A909-DA36-4AD6-8501-FFDB552E334C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Pregunta21.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Pregunta21Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D2BB566C-5082-49DC-A998-B14FB825BC42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Pregunta21">
+      <UniqueIdentifier>{E4AA4A88-81AE-491C-B3F4-EEF92017ADB6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Pregunta21\EstrategiaAtaqueAgresiva.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\EstrategiaAtaqueAgresiva.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pregunta21\EstrategiaFormacionAtaque.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\EstrategiaFormacionAtaque.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pregunta21\IStrategia.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\IStrategia.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pregunta21\NaveGuerrera.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\NaveGuerrera.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Pregunta21\Pregunta21.Build.cs">
+      <Filter>Source\Pregunta21</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Pregunta21\Pregunta21.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\Pregunta21.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pregunta21\Pregunta21GameMode.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\Pregunta21GameMode.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pregunta21\Pregunta21Pawn.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\Pregunta21Pawn.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pregunta21\Pregunta21Projectile.cpp">
+      <Filter>Source\Pregunta21</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pregunta21\Pregunta21Projectile.h">
+      <Filter>Source\Pregunta21</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Development\Pregunta21\Definitions.Pregunta21.h
+C:\SIS457\Pregunta21\Source\Pregunta21\Pregunta21GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\Pregunta21GameMode.generated.h
+C:\SIS457\Pregunta21\Source\Pregunta21\Pregunta21Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\Pregunta21Pawn.generated.h
+C:\SIS457\Pregunta21\Source\Pregunta21\NaveGuerrera.h
+C:\SIS457\Pregunta21\Source\Pregunta21\IStrategia.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\IStrategia.generated.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\NaveGuerrera.generated.h
+C:\SIS457\Pregunta21\Source\Pregunta21\EstrategiaAtaqueAgresiva.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\EstrategiaAtaqueAgresiva.generated.h
+C:\SIS457\Pregunta21\Source\Pregunta21\EstrategiaFormacionAtaque.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\EstrategiaFormacionAtaque.generated.h

@@ -1,0 +1,7 @@
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Development\Pregunta21\Definitions.Pregunta21.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\SIS457\Pregunta21\Source\Pregunta21/EstrategiaFormacionAtaque.h
+C:\SIS457\Pregunta21\Source\Pregunta21\IStrategia.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\IStrategia.generated.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\EstrategiaFormacionAtaque.generated.h

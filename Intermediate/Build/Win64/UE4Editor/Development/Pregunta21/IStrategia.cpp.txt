@@ -1,0 +1,3 @@
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Development\Pregunta21\Definitions.Pregunta21.h
+C:\SIS457\Pregunta21\Source\Pregunta21\IStrategia.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\IStrategia.generated.h

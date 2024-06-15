@@ -1,0 +1,9 @@
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Development\Pregunta21\Definitions.Pregunta21.h
+C:\SIS457\Pregunta21\Source\Pregunta21\EstrategiaAtaqueAgresiva.h
+C:\SIS457\Pregunta21\Source\Pregunta21\IStrategia.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\IStrategia.generated.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\EstrategiaAtaqueAgresiva.generated.h
+C:\SIS457\Pregunta21\Source\Pregunta21\Pregunta21Projectile.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\Pregunta21Projectile.generated.h
+C:\SIS457\Pregunta21\Source\Pregunta21\NaveGuerrera.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\NaveGuerrera.generated.h

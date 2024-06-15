@@ -1,0 +1,7 @@
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Development\Pregunta21\Definitions.Pregunta21.h
+C:\SIS457\Pregunta21\Source\Pregunta21\Pregunta21Projectile.h
+C:\SIS457\Pregunta21\Intermediate\Build\Win64\UE4Editor\Inc\Pregunta21\Pregunta21Projectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
